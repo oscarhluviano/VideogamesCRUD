@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VideogamesCRUD</string>
+    <string name="title">Titulo</string>
+    <string name="genre">Genero</string>
+    <string name="dev">Desarrollador</string>
+    <string name="update">Actualizar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="noElements">¡No hay registros!</string>
+    <string name="add">Agregar</string>
+    <string name="header">Heard</string>
+    <string name="shooter">Shooter</string>
+    <string name="moba">MOBA</string>
+    <string name="action">Action</string>
+    <string name="sports">Sports</string>
+    <string-array name="options">
+        <item>@string/shooter</item>
+        <item>@string/moba</item>
+        <item>@string/action</item>
+        <item>@string/sports</item>
+    </string-array>
+</resources>
